@@ -1,5 +1,4 @@
 # hack-petya mission accomplished!!!
-============
 
 ## find key in seconds to restore petya ransomware encrypted mft
 
@@ -44,7 +43,3 @@ Get the nonce and the verification sector of the encrypted disk via dd or some h
 in the directory where the program is, start the program, wait some seconds, have the key. 
 
 Best use the key on an image of the victim disk, inside a vm ... just to be on the safe side. 
-
-
-
-
